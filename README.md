@@ -21,7 +21,7 @@ B.Sc. CSIT Student at Tribhuvan University | Front-End Enthusiast | Exploring Et
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=4020uncho&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4020uncho&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4020uncho&layout=compact&theme=radical&hide_border=true&v=1)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=4020uncho&theme=radical&hide_border=true)
 

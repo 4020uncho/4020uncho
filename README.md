@@ -1,6 +1,6 @@
 # Hi there, I'm Unchohang Limbu 👋
 
-![Banner or Header Image](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)  
+![Banner or Header Image]("C:\Users\acer\Downloads\Sleek Circuit Board with GitHub Branding.png")  
 <!-- Upload a custom banner to your repo (e.g., in an /assets folder) and link it -->
 
 B.Sc. CSIT Student at Tribhuvan University | Front-End Enthusiast | Exploring Ethical Hacking & Cybersecurity

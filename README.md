@@ -19,7 +19,7 @@ B.Sc. CSIT Student at Tribhuvan University | Front-End Enthusiast | Exploring Et
 <!-- Add more like Git, Linux, etc. from shields.io -->
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=4020uncho&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-lime-sigma-64.vercel.app/api?username=4020uncho&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4020uncho&layout=compact&theme=radical&hide_border=true&v=1)
 

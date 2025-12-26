@@ -26,7 +26,7 @@ B.Sc. CSIT Student at Tribhuvan University | Front-End Enthusiast | Exploring Et
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=4020uncho&theme=radical&hide_border=true)
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unchohang-limbu-yourid)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uncho-limbu-9926b3341/)
 <!-- Add email, Twitter, portfolio if you have -->
 
 🚀 Check out my pinned repos below for projects like password generators and DSA practice!

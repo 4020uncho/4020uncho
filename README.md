@@ -8,6 +8,7 @@ B.Sc. CSIT Student at Tribhuvan University | Front-End Enthusiast | Exploring Et
 🔭 Currently learning Data Structures & Algorithms in C++  
 🌱 Building projects in HTML, CSS, JavaScript, and React  
 ⚡ Fun fact: I love turning code into secure, user-friendly experiences  
+🚧 Currently working on a campus admission form system to simplify and digitize the admission process 
 
 ### 🛠 Tech Stack & Skills
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)

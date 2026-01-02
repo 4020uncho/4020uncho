@@ -19,14 +19,7 @@ B.Sc. CSIT Student at Tribhuvan University | Front-End Enthusiast | Exploring Et
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
-
-
-
 <!-- Add more like Git, Linux, etc. from shields.io -->
-
-### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4020uncho&theme=radical&hide_border=true)
-
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uncho-limbu-9926b3341/)

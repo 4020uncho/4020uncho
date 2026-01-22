@@ -27,6 +27,7 @@ B.Sc. CSIT Student at Tribhuvan University | Front-End Enthusiast | Exploring Et
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uncho-limbu-9926b3341/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:uncholimbu5@gmail.com)
 <!-- Add email, Twitter, portfolio if you have -->
 
 🚀 Check out my pinned repos below for projects like password generators and DSA practice!

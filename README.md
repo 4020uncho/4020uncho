@@ -18,7 +18,7 @@ B.Sc. CSIT Student at Tribhuvan University | Front-End Enthusiast | Exploring Et
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
+![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-F05032?style=flat&logo=git&logoColor=white)
 
 <!-- Add more like Git, Linux, etc. from shields.io -->
 

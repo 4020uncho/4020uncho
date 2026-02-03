@@ -13,7 +13,7 @@ Exploring broader opportunities in software development and cybersecurity along 
 
 Feel free to reach out for project collaborations or discussions on web technologies.
 
-### 🛠 Tech Stack 
+###  Tech Stack 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -27,7 +27,7 @@ Feel free to reach out for project collaborations or discussions on web technolo
 
 <!-- Add more like Git, Linux, etc. from shields.io -->
 
-### 🔗 Connect with Me
+###  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uncho-limbu-9926b3341/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/)
 <!-- Add email, Twitter, portfolio if you have -->

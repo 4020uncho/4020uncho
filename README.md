@@ -1,16 +1,19 @@
-# Hi there, I'm Unchohang Limbu,
+### Unchohang Limbu
 
+B.Sc. CSIT Student | Tribhuvan University
 
+Undergraduate focused on full-stack web development with emphasis on the MERN stack.
 
+Currently:
+- Strengthening fundamentals in Data Structures & Algorithms (C++)
+- Building projects using HTML, CSS, JavaScript, React, and Node.js
+- Progressing toward proficiency in MongoDB, Express.js, React, and Node.js
 
-B.Sc. CSIT Student at Tribhuvan University | Front-End Enthusiast | Exploring Ethical Hacking & Cybersecurity
+Exploring broader opportunities in software development and cybersecurity along the way.
 
-🔭 Currently learning Data Structures & Algorithms in C++  
-🌱 Building projects in HTML, CSS, JavaScript, and React  
-⚡ Fun fact: I love turning code into secure, user-friendly experiences
-   Currently on the road for being an MERN stack!
+Feel free to reach out for project collaborations or discussions on web technologies.
 
-### 🛠 Tech Stack & Skills
+### 🛠 Tech Stack 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

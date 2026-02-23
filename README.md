@@ -8,6 +8,7 @@ Currently:
 - Strengthening fundamentals in Data Structures & Algorithms (C++)
 - Building projects using HTML, CSS, JavaScript, React, and Node.js
 - Progressing toward proficiency in MongoDB, Express.js, React, and Node.js
+- Building the concept on cyberspace
 
 Exploring broader opportunities in software development and cybersecurity along the way.
 

@@ -28,6 +28,13 @@ Feel free to reach out for project collaborations or discussions on web technolo
 
 <!-- Add more like Git, Linux, etc. from shields.io -->
 
+### 📈 Contribution Graph  
+<p align="center">
+  <img src=[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4020uncho&bg_color=1e0a15&color=de2e21&line=4c9e74&point=aa1d0e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) alt="Contribution Graph"/>
+</p>
+
+---
+
 ###  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uncho-limbu-9926b3341/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/)

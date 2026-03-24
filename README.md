@@ -33,4 +33,3 @@ Feel free to reach out for project collaborations or discussions on web technolo
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/)
 <!-- Add email, Twitter, portfolio if you have -->
 
-🚀 Check out my pinned repos below for projects like password generators and DSA practice!

@@ -30,7 +30,7 @@ Feel free to reach out for project collaborations or discussions on web technolo
 
 ### 📈 Contribution Graph  
 <p align="center">
-  <img src=[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4020uncho&bg_color=1e0a15&color=de2e21&line=4c9e74&point=aa1d0e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4020uncho&bg_color=1e0a15&color=de2e21&line=4c9e74&point=aa1d0e&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---

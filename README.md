@@ -6,7 +6,7 @@ Undergraduate focused on full-stack web development with emphasis on the MERN st
 
 Currently:
 - Strengthening fundamentals in Data Structures & Algorithms (C++)
-- Building projects using HTML, CSS, JavaScript, React, and Node.js
+- Building projects using HTML, CSS, JavaScript, React, Tailwind and Node.js
 - Progressing toward proficiency in MongoDB, Express.js, React, and Node.js
 - Building the concept on cyberspace
 

@@ -2,18 +2,6 @@
 
 B.Sc. CSIT Student | Tribhuvan University
 
-Undergraduate focused on full-stack web development with emphasis on the MERN stack.
-
-Currently:
-- Strengthening fundamentals in Data Structures & Algorithms (C++)
-- Building projects using HTML, CSS, JavaScript, React, Tailwind and Node.js
-- Progressing toward proficiency in MongoDB, Express.js, React, and Node.js
-- Building the concept on cyberspace
-
-Exploring broader opportunities in software development and cybersecurity along the way.
-
-Feel free to reach out for project collaborations or discussions on web technologies.
-
 ###  Tech Stack 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)

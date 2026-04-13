@@ -12,6 +12,7 @@ B.Sc. CSIT Student | Tribhuvan University
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flate&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flate&logo=tailwind-css&logoColor=white)
 
 
 <!-- Add more like Git, Linux, etc. from shields.io -->
